@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-3k5%bckux3^)zos@*dy_ia%@m2uiw1aj+68%o_-n##^)!3@m-0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True 
+DEBUG = False 
 
 ALLOWED_HOSTS = ['.herokuapp.com', '127.0.0.1']
 
